@@ -3,5 +3,5 @@ Evaluation of the % change in Median House price value and Median Rent prices be
 With the estimated information, a Database were created and feed into QGIS to generate spatial plots for each of
 the census tracts in NYC. 
 
-![Alt text](Change_in_house_values.jpeg)
-![Alt text](Change_in_rent_values.jpeg)
+![Alt text](Change_in_house_values.png)
+![Alt text](Change_in_rent_values.png)
