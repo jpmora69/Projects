@@ -12,5 +12,5 @@ Maps with the results were plotted in Carto DB to show the range of the scores o
 New York City Neighborhoods.
 
 ![Alt text](Gentrification_MAP_2009.png)
-![Alt text](Gentrification_Map_2013.png)
-![Alt text](Gentrification_Map_2013_Adjacent_Neighborhs.png)
+![Alt text](Gentrification_MAP_2013.png)
+![Alt text](Gentrification_MAP_2013_Adjacent_Neighborhs.png)
