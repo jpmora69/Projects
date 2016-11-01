@@ -1,4 +1,4 @@
-The following notebooks were created with the aim of performing a baasic tweeter setntiment analysis related 
+The following notebooks were created with the aim of performing a basic tweeter sentiment analysis related 
 to the colombian peace treaty announced in the last months by the Colombian goverment and the FARC guerrillas.
 
 The first Jupyter Notebook called "TASS database for sentiment analysis" contains the load and preprocessing of the 
